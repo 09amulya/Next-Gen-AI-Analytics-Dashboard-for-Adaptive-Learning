@@ -4,6 +4,7 @@
 The Next-Gen AI Analytics Dashboard for Adaptive Learning is a web-based system designed to transform traditional academic data into actionable insights and personalized study plans.
 
 Instead of just displaying marks, the system analyzes student performance and provides adaptive learning strategies that evolve with every new result.
+Live Link: https://09amulya.github.io/Next-Gen-AI-Analytics-Dashboard-for-Adaptive-Learning/
 
 🎯 Problem Statement
 
